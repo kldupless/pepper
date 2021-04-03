@@ -19,7 +19,9 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
+    border: 1px solid white;
 }
 .main-container{
 text-align: center;
+border: 2px solid white;
 }
