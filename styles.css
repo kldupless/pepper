@@ -14,16 +14,16 @@ a{
 }
 h1{
     font-family: 'Oswald', sans-serif;
-    font-size: 4em;
+    font-size: 5rem;
+    line-height: 5.2rem;
     text-transform: uppercase;
 }
 section{
-    min-height: 95vh;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .main-container{
 text-align: center;
-padding: 10px;
 }
