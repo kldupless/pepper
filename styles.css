@@ -18,11 +18,12 @@ h1{
     text-transform: uppercase;
 }
 section{
-    min-height: 100vh;
+    min-height: 95vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .main-container{
 text-align: center;
+padding: 10px;
 }
