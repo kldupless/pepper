@@ -9,6 +9,9 @@ body{
     font-size: 1em;
     letter-spacing: .015em;
 }
+a{
+    color: white;
+}
 h1{
     font-family: 'Oswald', sans-serif;
     font-size: 3em;
